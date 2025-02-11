@@ -1,5 +1,6 @@
 # 💫 About Me:
-i am currently working on a personal python  house management web app<br>i am am looking for collaboration in django projects<br>i am looking for help django models optimization & security<br>i am learning about backend web development<br>
+i am currently working on python <br>i am am looking for collaboration in python and c++ related 
+projects<br>i am looking for help django models optimization & security<br>i am learning about backend web development<br>
 
 
 ## 🌐 Socials:
