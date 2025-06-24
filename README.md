@@ -1,16 +1,64 @@
-# 💫 About Me:
-# 👋 Hey there, I'm Benjamin Maina
+# 👋 Hi, I'm Benjamin Maina
 
-🎓 Diploma in Computing & Information Systems  
-💻 Python | Django | REST APIs | Web Automation  | DataBase
-🚧 Currently learning Docker, Networking & DevOps Basics 
-📦 Favorite stack: Django + DRF + Redis + JWT
+🎓 Diploma graduate in Computing and Information Systems  
+🧰 Backend-focused developer with a love for automation, scripting, and real-world problem solving  
+🌍 Based in Kenya | Learning every day | Shipping small, sharp tools
 
-### 📌 Currently Working On
+---
 
-- Revisiting Django + DRF with real-world apps
-- Exploring Docker & deployment
-- Practicing networking and security with Kali Linux
+## 💻 Tech I'm Comfortable With
+
+- **Languages:** Python 🐍, C (some), Bash
+- **Frameworks:** Django, Django REST Framework
+- **Tools:** Git, Docker (basic), Redis (basic), M-Pesa API, SQLite/MySQL
+- **Other:** Linux, Basic Networking, API integrations
+
+---
+
+## 🛠️ Projects I'm Proud Of
+
+### 🏠 [House Management System](https://github.com/benjamaina/house-management)  
+A full Django backend for managing tenants, payments, and rent. Includes:
+- JWT Auth
+- M-Pesa integration
+- Redis caching  
+> My biggest real-world style app so far.
+
+### 🖼️ [Wallpaper Scraper](https://github.com/benjamaina/wallpaper_scraper)  
+Scrapes wallpapers from a source and sets them as desktop background.  
+> Automation + scraping + OS control = fun project that actually lives on my PC.
+
+### 🏦 [Banking CLI App](https://github.com/benjamaina/banking)  
+Simple CLI banking app storing data in CSV.  
+> Focused on core logic, file handling, and user flow.
+
+---
+
+## 🧪 Still Exploring
+
+- Docker for Django & API projects  
+- CI/CD basics  
+- Some frontend with Next.js when I have to  
+- Networking & cybersecurity (mostly curiosity-driven)
+
+---
+
+## 🎯 Currently
+
+- Shipping small Python tools
+- Learning how to build better APIs
+- Playing with C again for fun
+- Trying not to overthink everything 😅
+
+---
+
+## 📫 Reach Me
+
+I'm not big on socials, but feel free to connect via GitHub or raise an issue/PR on any project. Always happy to learn.
+
+---
+
+🧠 _Still learning. Still shipping. Still having fun._
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Benja Mmoja) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/benja_b0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Benjamin Ben) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@benjamin maina) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@benmaina) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mainabenjamin933@gmail.com) 
