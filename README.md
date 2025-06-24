@@ -6,6 +6,12 @@
 🚧 Currently learning Docker, Networking & DevOps Basics 
 📦 Favorite stack: Django + DRF + Redis + JWT
 
+### 📌 Currently Working On
+
+- Revisiting Django + DRF with real-world apps
+- Exploring Docker & deployment
+- Practicing networking and security with Kali Linux
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Benja Mmoja) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/benja_b0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Benjamin Ben) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@benjamin maina) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@benmaina) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mainabenjamin933@gmail.com) 
 
