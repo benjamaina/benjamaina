@@ -1,7 +1,10 @@
 # 💫 About Me:
-i am currently working on python <br>i am am looking for collaboration in python and c++ related 
-projects<br>i am looking for help django models optimization & security<br>i am learning about backend web development<br>
+# 👋 Hey there, I'm Benjamin Maina
 
+🎓 Diploma in Computing & Information Systems  
+💻 Python | Django | REST APIs | Web Automation  | DataBase
+🚧 Currently learning Docker, Networking & DevOps Basics 
+📦 Favorite stack: Django + DRF + Redis + JWT
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Benja Mmoja) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/benja_b0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Benjamin Ben) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@benjamin maina) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@benmaina) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mainabenjamin933@gmail.com) 
